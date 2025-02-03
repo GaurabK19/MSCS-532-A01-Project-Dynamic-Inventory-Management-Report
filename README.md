@@ -1,1 +1,1 @@
-# MSCS-532-A01-Project-Dynamic-Inventory-Management-Report
+Please run `InventoryManagement.py` to output the Inventory Management System Testing
